@@ -1,0 +1,7 @@
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\bin\Debug\MatrixStrangeWay.exe.config
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\bin\Debug\MatrixStrangeWay.exe
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\bin\Debug\MatrixStrangeWay.pdb
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\obj\Debug\MatrixStrangeWay.csprojResolveAssemblyReference.cache
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\obj\Debug\MatrixStrangeWay.csproj.CoreCompileInputs.cache
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\obj\Debug\MatrixStrangeWay.exe
+C:\Users\mechk\source\repos\MatrixStrangeWay\MatrixStrangeWay\obj\Debug\MatrixStrangeWay.pdb
